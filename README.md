@@ -4,3 +4,4 @@ Projects for #100daysofmlcode challenge
 2) Actuaries Institute article on NLP and text classification
 3) Data preprocessing notes
 4) Classification models notes: Logistic Regression, SVM, Naive Bayes, Confusion Matrix & Classification reports
+5) Regression models SLR, MLR, Polynomial regression, SVR
