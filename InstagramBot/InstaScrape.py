@@ -76,8 +76,8 @@ class InstagramBot(object):
             unique_photos -= 1
 
 if __name__ == '__main__':
-    username = 'jtsw1990'
-    password = 'b0mber'
+    username = ***
+    password = ***
 
     ig = InstagramBot(username, password)
     ig.login()
