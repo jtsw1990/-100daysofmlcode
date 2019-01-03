@@ -1,0 +1,48 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 60px;
+  font-family: monospace;
+  padding-top: 100px;
+  font-weight: bold;
+}
+
+body {
+  background-color: #ffb366;
+}
+
+.instructions {
+  color: black;
+  font-size: 28px;
+  text-align: center;
+}
+
+button {
+  text-align: center;
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#playerChoice {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  padding-left: 15px;
+}
+
+#computerChoice {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  padding-left: 15px;
+}
+
+#results {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  padding-left: 15px;
+}
